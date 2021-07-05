@@ -2,3 +2,5 @@ include/
 lib/
 scripts/
 pyvenv.cfg/
+.idea/
+venv/

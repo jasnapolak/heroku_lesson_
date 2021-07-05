@@ -1,0 +1,64 @@
+body {
+    background-color: #FAEBD7;
+    background-image: url("https://www.enjpg.com/img/2020/aesthetic-backgrounds-92.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+
+h1 {
+    color: #778899;
+    border: 2px solid black;
+    outline: #778899 solid 10px;
+    text-shadow: 2px 2px 5px white;
+    font-family: "audiowide", sans-serif;
+}
+
+
+#nameupper {
+    text-transform: uppercase;
+}
+
+
+.underline {
+    text-decoration: underline;
+}
+
+
+/*
+.searc {
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    z-index: 1;
+}
+*/
+
+
+#image {
+    border-style: outset;
+}
+
+
+button {
+    font-size: 16px;
+}
+
+
+button:hover {
+    font-size: 130%;
+    border: 6px solid #778899;
+}
+
+
+li {
+    background-color:  #bbc4cc;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: 40%;
+    text-align: left;
+}
